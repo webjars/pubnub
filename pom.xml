@@ -11,7 +11,7 @@
 	<packaging>jar</packaging>
 	<groupId>org.webjars</groupId>
 	<artifactId>pubnub</artifactId>
-	<version>4.21.0</version>
+	<version>4.21.1-SNAPSHOT</version>
 	<name>pubnub</name>
 	<description>Webjar for pubnub</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/pubnub</url>
         <connection>scm:git:https://github.com/webjars/pubnub.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/pubnub.git</developerConnection>
-        <tag>pubnub-4.21.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
